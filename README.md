@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mudit!
 
-<!--
-**muditparashar2410/muditparashar2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate (B.Tech, 2023)**  
+💻 **Software Developer | Problem Solver | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate software developer with experience in building responsive and scalable applications. My expertise lies in:  
+- **Data Structures & Algorithms (DSA)** 🏗️  
+- **Java & Spring Framework** ☕  
+- **Python & Backend Development** 🐍  
+- **Database Management & Query Languages** 🗄️  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Programming Languages:** Java, Python  
+- **Frameworks & Tools:** Spring Boot, Hibernate  
+- **Databases:** SQL, Mongodb  
+- **Others:**  Kafka,Rabbit Mq,Docker,Linux, REST APIs  
+
+## 📬 Let's Connect!
+📧 Email: muditparashar2410@gmail.com  
+---
+
+🌟 **Let's build something amazing together!** 🚀
