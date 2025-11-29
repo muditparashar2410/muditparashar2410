@@ -12,7 +12,7 @@ I am a passionate software developer with experience in building responsive and 
 
 ## 🛠 Tech Stack
 - **Programming Languages:** Java, Python  
-- **Frameworks & Tools:** Spring Boot, Hibernate  
+- **Frameworks & Tools:** Spring Boot, Fast Api, Flask  
 - **Databases:** SQL, Mongodb  
 - **Others:**  Kafka,Rabbit Mq,Docker,Linux, REST APIs  
 
